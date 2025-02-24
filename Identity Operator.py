@@ -1,0 +1,5 @@
+a=int(input("Enter the number :"))
+b=int(input("Enter the number :"))
+print("a is b                 :",a is b)
+print("a is not b             :",a is not b)
+print("a is not b             :",not a is b)
