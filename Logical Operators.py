@@ -1,0 +1,5 @@
+a=int(input("Enter the number :"))
+b=int(input("Enter the number :"))
+print("Logical AND            :",a and b)
+print("Logical OR             :",a or b)
+print("Logical NOT            :",not a)
