@@ -9,3 +9,6 @@
 
 a=input("Enter a string: ")
 print(a.replace(" ","**"))
+
+print("Welcome","To","Python",sep="**")
+
