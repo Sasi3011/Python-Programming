@@ -1,0 +1,9 @@
+Ex.1 Create a Python application that uses expressions and control flow statements to automate a common task. Ensure that your application is user-friendly and robust to different inputs
+    a. Swap two numbers without a temporary variable, 
+    b. Quadratic Equation, 
+    c.Valid Palindrome  
+
+Ex.2 Implement a Python program that simulates a real-world system or process using conditions and iterative loops
+    a.check whether an alphabet is a vowel or consonant, 
+    b. the sum of all even numbers from 0 to n, 
+    c. factorial of a number
