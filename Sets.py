@@ -6,3 +6,5 @@ print(type(set1))
 set2={}
 print(set2)
 print(type(set2))
+
+#copyb
