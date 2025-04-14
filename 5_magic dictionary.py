@@ -1,6 +1,5 @@
 # Magic dictionary simple program without function
 
-# Create a dictionary with some words
 magic_dict = {
     "python": "A high-level programming language.",
     "algorithm": "A step-by-step procedure for solving a problem.",
