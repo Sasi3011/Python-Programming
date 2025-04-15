@@ -1,6 +1,6 @@
 #Copy from  one file to another
 
-s = "source.txt"
+s = "Sample.txt"
 d = "destination.txt"
 source = open(s, "r")
 content = source.read()
